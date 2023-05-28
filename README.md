@@ -1,5 +1,5 @@
 # Artificial-Intelligence-CMSC471-Spring-2022
-Instructor: Dr. Fereydoon Vafaei
+## Instructor: Dr. Fereydoon Vafaei
 
 The course materials of CMSC471 Artificial Intelligence Course at University of Maryland, BC.
 
